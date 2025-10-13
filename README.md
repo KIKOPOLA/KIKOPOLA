@@ -8,13 +8,19 @@ HELLO EVERYONE👋<br>I like coding👨‍💻 and playing online games🎮
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-## Game zone🎮:
+ 
+## 🎨 Kreatifitas Tanpa Batas:
+![PicsArt](https://img.shields.io/badge/PicsArt-AA00FF?style=for-the-badge&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+## 🎮 Game zone:
+![Steam](https://img.shields.io/badge/Steam-0a0a0a?style=for-the-badge&logo=steam&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 ![PUBG Mobile](https://img.shields.io/badge/PUBG%20Mobile-F8961E?style=for-the-badge&logo=pubg&logoColor=white)
 ![Valorant](https://img.shields.io/badge/Valorant-FA4454?style=for-the-badge&logo=valorant&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
 
-## 🌐 Socials:
+## 🌐 Media Sosial:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zercositshere) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KIKOPOLA&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
