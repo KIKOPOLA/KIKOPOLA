@@ -13,7 +13,8 @@ HELLO EVERYONE👋<br>I like coding👨‍💻 and playing online games🎮
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-0A0A0A?style=for-the-badge&logo=laravel&logoColor=red)
+<br>
+![Laragon](https://img.shields.io/badge/Laragon-0078d7?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -26,6 +27,7 @@ HELLO EVERYONE👋<br>I like coding👨‍💻 and playing online games🎮
 ## 🎮 Game zone:
 ![Steam](https://img.shields.io/badge/Steam-0a0a0a?style=for-the-badge&logo=steam&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+<br>
 ![PUBG Mobile](https://img.shields.io/badge/PUBG%20Mobile-F8961E?style=for-the-badge&logo=pubg&logoColor=white)
 ![Valorant](https://img.shields.io/badge/Valorant-FA4454?style=for-the-badge&logo=valorant&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
