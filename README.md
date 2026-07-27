@@ -1,51 +1,240 @@
+<div align="center">
 
-# HELLO EVERYONE👋<br>
-I am a Software Engineering student developing my knowledge and skills in technology related to my major.
-I believe that every stage of my learning provides valuable experience for facing future challenges.
-I like coding👨‍💻 and playing online games🎮
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Muhammad Bintang
 
-## 💻 Programming Languages [Learning Progress]:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-<br>
- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Backend+Developer;Laravel+Developer;Flutter+Developer;Always+Learning+New+Things+🚀" />
 
- ## 🛠️ Tech Stack:
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-<br>
-![Laragon](https://img.shields.io/badge/Laragon-0078d7?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### 💻 Software Engineering Student | Backend Developer | Indonesia 🇮🇩
 
-## 🎨 Kreatifitas Tanpa Batas:
-![PicsArt](https://img.shields.io/badge/PicsArt-AA00FF?style=for-the-badge&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+<p>
+<a href="https://instagram.com/zercositshere">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-## 🎮 Game zone:
-![Steam](https://img.shields.io/badge/Steam-0a0a0a?style=for-the-badge&logo=steam&logoColor=white)
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-<br>
-![PUBG Mobile](https://img.shields.io/badge/PUBG%20Mobile-F8961E?style=for-the-badge&logo=pubg&logoColor=white)
-![Valorant](https://img.shields.io/badge/Valorant-FA4454?style=for-the-badge&logo=valorant&logoColor=white)
-![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
+<a href="https://github.com/KIKOPOLA">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 🌐 Media Sosial:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zercositshere) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KIKOPOLA&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KIKOPOLA&theme=codeSTACKr&hide_border=false)<br/>
+</p>
 
+![](https://komarev.com/ghpvc/?username=KIKOPOLA&style=for-the-badge&color=0e75b6)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KIKOPOLA&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KIKOPOLA&icon=5&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+```yaml
+Name: Muhammad Bintang
+
+Education:
+  - Software Engineering Student
+
+Current Focus:
+  - Backend Development
+  - Laravel
+  - Flutter
+
+Currently Learning:
+  - Clean Architecture
+  - REST API
+  - PostgreSQL
+  - Supabase
+
+Hobbies:
+  - Coding 👨‍💻
+  - Gaming 🎮
+  - Learning New Technology 🚀
+```
+
+---
+
+# 🚀 Tech Stack
+
+## 💻 Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,dart"/>
+
+</p>
+
+---
+
+## ⚙ Frameworks & Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=laravel,flutter,mysql,postgres"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github"/>
+
+<img src="https://img.shields.io/badge/Laragon-0078D7?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+
+</p>
+
+---
+
+# 🎨 Creative Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PicsArt-AA00FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
+
+</p>
+
+---
+
+# 🎮 Gaming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=steam"/>
+
+<img src="https://img.shields.io/badge/Valorant-FA4454?style=for-the-badge&logo=valorant&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PUBG-Mobile-FEAB02?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KIKOPOLA&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIKOPOLA&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=KIKOPOLA&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KIKOPOLA&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KIKOPOLA&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+
+</p>
+
+---
+
+# 💼 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 📚 **Laporan Dosen Wali** | Laravel + PostgreSQL Academic Monitoring System |
+| 📋 **Taskora** | Laravel Project Management Application |
+| 📝 **Notes App** | Flutter + Supabase Notes Application |
+| 🛒 **Juabaru** | Marketplace Website built with Laravel |
+
+---
+
+# 📈 Learning Progress
+
+```text
+Laravel        ███████████████████░   95%
+
+PHP            ██████████████████░░   90%
+
+Flutter        ████████████████░░░░   80%
+
+MySQL          █████████████████░░░   85%
+
+PostgreSQL     ██████████████░░░░░░   70%
+
+Python         ███████████░░░░░░░░░   55%
+
+Java           ████████████░░░░░░░░   60%
+```
+
+---
+
+# 💬 Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📌 Top Contributed Repository
+
+<p align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=KIKOPOLA&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
+</p>
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://instagram.com/zercositshere">
+
+<img src="https://skillicons.dev/icons?i=instagram"/>
+
+</a>
+
+<a href="https://github.com/KIKOPOLA">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Fun Fact
+
+> **"First, solve the problem. Then, write the code." – John Johnson**
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+---
+
+⭐ From **Muhammad Bintang**
+
+**Thanks for visiting my profile!**
+
+</div>
