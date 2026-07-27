@@ -1,34 +1,34 @@
 <div align="center">
 
-# Hi there, I'm Muhammad Bintang 👋
+# Muhammad Bintang 👋
 
 ### Software Engineering Student • Backend Developer
 
 <p>
-Passionate about building web applications, exploring backend technologies, and continuously improving my skills through real-world projects.
+Passionate about backend development, building web applications, and continuously learning modern technologies.
 </p>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=KIKOPOLA&style=flat-square&color=0ea5e9" />
-<img src="https://img.shields.io/github/followers/KIKOPOLA?style=flat-square" />
-<img src="https://img.shields.io/github/stars/KIKOPOLA?affiliations=OWNER&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=KIKOPOLA&style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/followers/KIKOPOLA?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/KIKOPOLA?style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-## About Me
+# 💫 About Me
 
 - 🎓 Software Engineering Student from Indonesia
-- 💙 Interested in Backend Development
+- 💻 Focused on Backend Development
 - 🌱 Currently learning Laravel, Flutter, PostgreSQL, and REST API
-- 🚀 Always trying to build useful projects and improve my coding skills
-- 🎮 Enjoy gaming in my free time
+- 🚀 Love building real-world applications
+- 🎯 Goal: Become a Professional Backend Developer
 
 ---
 
-## Tech Stack
+# ⚡ Tech Stack
 
 ### Languages
 
@@ -36,7 +36,7 @@ Passionate about building web applications, exploring backend technologies, and 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,dart" />
 </p>
 
-### Frameworks & Databases
+### Frameworks & Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=laravel,flutter,mysql,postgres,supabase" />
@@ -50,15 +50,17 @@ Passionate about building web applications, exploring backend technologies, and 
 
 ---
 
-## GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KIKOPOLA&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KIKOPOLA&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIKOPOLA&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -68,7 +70,7 @@ Passionate about building web applications, exploring backend technologies, and 
 
 ---
 
-## Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -78,42 +80,107 @@ Passionate about building web applications, exploring backend technologies, and 
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
 
-| Project | Tech |
-|---------|------|
-| 📚 Laporan Dosen Wali | Laravel • PostgreSQL |
-| 📋 Taskora | Laravel |
-| 📝 Notes App | Flutter • Supabase |
-| 🛒 Juabaru | Laravel |
+<table>
+<tr>
+<td width="50%">
+
+## 📚 Lentra
+
+**Web-based asset lending application**
+
+**Tech Stack**
+
+- PHP Native
+- MySQL
+- Bootstrap
+
+</td>
+
+<td width="50%">
+
+## 🛒 Juabaru
+
+**Modern marketplace website**
+
+**Tech Stack**
+
+- Laravel
+- PostgreSQL
+- Blade
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 📝 NotesApp
+
+**Cross-platform notes application**
+
+**Tech Stack**
+
+- Flutter
+- Supabase
+
+</td>
+
+<td width="50%">
+
+## 🏫 Sekolahku
+
+**School information system**
+
+**Tech Stack**
+
+- Laravel
+- MySQL
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-## Currently Learning
+# 📚 Currently Learning
 
 - Laravel Ecosystem
+- REST API Development
 - Flutter
 - PostgreSQL
-- REST API Development
-- Git & GitHub Workflow
+- Git Workflow
+- Clean Code
 
 ---
 
-## Connect
+# 🎮 Interests
+
+💻 Coding • 🎮 Gaming • 📖 Learning New Technologies
+
+---
+
+# 🌐 Connect
 
 <p align="left">
 <a href="https://instagram.com/zercositshere">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
+
 <a href="https://github.com/KIKOPOLA">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
 </p>
 
 ---
 
 <div align="center">
 
-*"Code. Learn. Build. Repeat."*
+### Thanks for visiting my profile ❤️
+
+*"Keep learning, keep building, and never stop improving."*
 
 </div>
