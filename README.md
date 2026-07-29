@@ -4,15 +4,15 @@
 
 ### Software Engineering Student • Backend Developer
 
-Building backend applications with Laravel and exploring browser-based game development.
+I'm passionate about backend development, building web applications, and exploring browser-based game development with Laravel.
 
 <p>
 <a href="https://github.com/KIKOPOLA">
-<img src="https://img.shields.io/badge/Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://instagram.com/zercositshere">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 </p>
@@ -21,19 +21,13 @@ Building backend applications with Laravel and exploring browser-based game deve
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-```txt
-🎓 Software Engineering Student from Indonesia
-
-💻 Passionate about Backend Development
-
-🚀 Currently building personal projects using Laravel
-
-🎮 Exploring browser-based game development
-
-🌱 Learning Laravel, PostgreSQL, Flutter, REST API, and Clean Architecture
-```
+- 🎓 Software Engineering Student from Indonesia
+- 💻 Focused on Backend Development
+- 🌱 Currently learning Laravel, Flutter, PostgreSQL, and REST API
+- 🎮 Building **Alderia**
+- 🚀 Love turning ideas into real projects
 
 ---
 
@@ -41,20 +35,33 @@ Building backend applications with Laravel and exploring browser-based game deve
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,postgres,flutter,dart,supabase,git,github,vscode,figma"/>
+### Languages
+
+<img src="https://skillicons.dev/icons?i=php,js,java,python,dart,html,css" />
+
+<br><br>
+
+### Frameworks & Database
+
+<img src="https://skillicons.dev/icons?i=laravel,flutter,mysql,postgres,supabase" />
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📂 Featured Projects
 
 ### 🎮 Alderia
 
-A personal browser-based game project where I experiment with gameplay systems, backend architecture, and new ideas.
+A personal browser-based game project where I experiment with gameplay systems and backend architecture using Laravel.
 
-**Tech**
-`Laravel` • `PostgreSQL`
+**Stack:** Laravel • PostgreSQL
 
 ---
 
@@ -62,8 +69,7 @@ A personal browser-based game project where I experiment with gameplay systems, 
 
 Marketplace web application built with Laravel.
 
-**Tech**
-`Laravel` • `PostgreSQL`
+**Stack:** Laravel • PostgreSQL
 
 ---
 
@@ -71,27 +77,25 @@ Marketplace web application built with Laravel.
 
 Asset lending management system.
 
-**Tech**
-`PHP Native` • `MySQL`
+**Stack:** PHP Native • MySQL
 
 ---
 
 ### 📝 NotesApp
 
-Cross-platform note-taking application.
+Cross-platform notes application.
 
-**Tech**
-`Flutter` • `Supabase`
+**Stack:** Flutter • Supabase
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KIKOPOLA&show_icons=true&hide_border=true&theme=transparent"/>
+<img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=KIKOPOLA&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIKOPOLA&layout=compact&hide_border=true&theme=transparent"/>
+<img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KIKOPOLA&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -103,26 +107,24 @@ Cross-platform note-taking application.
 - REST API Development
 - Flutter
 - PostgreSQL
-- Software Architecture
-- Clean Code
+- Clean Architecture
+- Docker
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Goals
 
-- [x] Build multiple Laravel projects
-- [x] Learn Flutter
-- [x] Learn PostgreSQL
-- [ ] Build a complete browser game
-- [ ] Learn Docker
-- [ ] Deploy production applications
-- [ ] Contribute to Open Source
+- ✅ Build high-quality backend projects
+- ✅ Improve software architecture skills
+- 🚧 Finish Alderia
+- 🚧 Learn Docker & CI/CD
+- 🚧 Contribute to Open Source
 
 ---
 
-## 📬 Connect
+## 🌐 Connect
 
-<p>
+<p align="left">
 
 <a href="https://github.com/KIKOPOLA">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -138,6 +140,8 @@ Cross-platform note-taking application.
 
 <div align="center">
 
-*"Always learning. Always building."*
+### Thanks for stopping by!
+
+*"Keep learning, keep building."* 🚀
 
 </div>
