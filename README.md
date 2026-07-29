@@ -1,6 +1,6 @@
 <div align="center">
 
-# Muhammad Bintang 👋
+# Bintang 👋
 
 ### Software Engineering Student • Backend Developer
 
