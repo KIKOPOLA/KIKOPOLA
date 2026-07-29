@@ -4,7 +4,7 @@
 
 ### Software Engineering Student • Backend Developer
 
-I'm passionate about backend development, building web applications, and exploring browser-based game development with Laravel.
+I'm a Software Engineering student from Indonesia who enjoys building web applications, learning backend technologies, and turning ideas into real projects.
 
 <p>
 <a href="https://github.com/KIKOPOLA">
@@ -21,13 +21,13 @@ I'm passionate about backend development, building web applications, and explori
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 🎓 Software Engineering Student from Indonesia
-- 💻 Focused on Backend Development
+- 💻 Interested in Backend Development
 - 🌱 Currently learning Laravel, Flutter, PostgreSQL, and REST API
-- 🎮 Building **Alderia**
-- 🚀 Love turning ideas into real projects
+- 🚀 Building personal projects to improve my skills
+- 🎮 Developing **Alderia**, a browser-based game project
 
 ---
 
@@ -41,7 +41,7 @@ I'm passionate about backend development, building web applications, and explori
 
 <br><br>
 
-### Frameworks & Database
+### Frameworks & Databases
 
 <img src="https://skillicons.dev/icons?i=laravel,flutter,mysql,postgres,supabase" />
 
@@ -55,37 +55,37 @@ I'm passionate about backend development, building web applications, and explori
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
 ### 🎮 Alderia
 
-A personal browser-based game project where I experiment with gameplay systems and backend architecture using Laravel.
+A browser-based game project built to explore gameplay systems and backend development using Laravel.
 
-**Stack:** Laravel • PostgreSQL
+**Tech Stack:** Laravel • PostgreSQL
 
 ---
 
 ### 🛒 Juabaru
 
-Marketplace web application built with Laravel.
+A marketplace web application developed with Laravel and PostgreSQL.
 
-**Stack:** Laravel • PostgreSQL
+**Tech Stack:** Laravel • PostgreSQL
 
 ---
 
 ### 📚 Lentra
 
-Asset lending management system.
+A web-based asset lending management system.
 
-**Stack:** PHP Native • MySQL
+**Tech Stack:** PHP Native • MySQL
 
 ---
 
 ### 📝 NotesApp
 
-Cross-platform notes application.
+A cross-platform note-taking application.
 
-**Stack:** Flutter • Supabase
+**Tech Stack:** Flutter • Supabase
 
 ---
 
@@ -93,9 +93,9 @@ Cross-platform notes application.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=KIKOPOLA&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KIKOPOLA&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
 
-<img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KIKOPOLA&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIKOPOLA&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -107,24 +107,24 @@ Cross-platform notes application.
 - REST API Development
 - Flutter
 - PostgreSQL
-- Clean Architecture
+- Software Architecture
 - Docker
 
 ---
 
 ## 🎯 Goals
 
-- ✅ Build high-quality backend projects
-- ✅ Improve software architecture skills
-- 🚧 Finish Alderia
+- ✅ Build useful backend applications
+- ✅ Improve Laravel and PostgreSQL skills
+- 🚧 Complete Alderia
 - 🚧 Learn Docker & CI/CD
-- 🚧 Contribute to Open Source
+- 🚧 Contribute to Open Source projects
 
 ---
 
-## 🌐 Connect
+## 📫 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="https://github.com/KIKOPOLA">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -140,8 +140,6 @@ Cross-platform notes application.
 
 <div align="center">
 
-### Thanks for stopping by!
-
-*"Keep learning, keep building."* 🚀
+*"Keep learning. Keep building."* 🚀
 
 </div>
