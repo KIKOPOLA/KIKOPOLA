@@ -2,77 +2,142 @@
 
 # Hi, I'm Bintang 👋
 
-Software Engineering Student from Indonesia
+### Software Engineering Student • Backend Developer
 
-Currently learning backend development and building projects with Laravel.
+Building backend applications with Laravel and exploring browser-based game development.
+
+<p>
+<a href="https://github.com/KIKOPOLA">
+<img src="https://img.shields.io/badge/Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/zercositshere">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- 🎓 Software Engineering Student
-- 💻 Interested in Backend Development
-- 🌱 Currently learning Laravel, Flutter, PostgreSQL
-- 🎮 Building **Alderia**
-- 🚀 Always trying to build something better than yesterday
+```txt
+🎓 Software Engineering Student from Indonesia
 
----
+💻 Passionate about Backend Development
 
-## Tech Stack
+🚀 Currently building personal projects using Laravel
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgres,flutter,supabase,git,github,vscode,figma" />
-</p>
+🎮 Exploring browser-based game development
+
+🌱 Learning Laravel, PostgreSQL, Flutter, REST API, and Clean Architecture
+```
 
 ---
 
-## Featured Projects
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,postgres,flutter,dart,supabase,git,github,vscode,figma"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 ### 🎮 Alderia
 
-A browser-based game where I'm experimenting with gameplay systems and backend architecture using Laravel.
+A personal browser-based game project where I experiment with gameplay systems, backend architecture, and new ideas.
+
+**Tech**
+`Laravel` • `PostgreSQL`
+
+---
 
 ### 🛒 Juabaru
 
-Marketplace web application built with Laravel and PostgreSQL.
+Marketplace web application built with Laravel.
+
+**Tech**
+`Laravel` • `PostgreSQL`
+
+---
 
 ### 📚 Lentra
 
-Asset lending management system built using PHP Native.
+Asset lending management system.
+
+**Tech**
+`PHP Native` • `MySQL`
+
+---
 
 ### 📝 NotesApp
 
-Cross-platform notes application built with Flutter and Supabase.
+Cross-platform note-taking application.
+
+**Tech**
+`Flutter` • `Supabase`
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KIKOPOLA&show_icons=true&theme=transparent&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIKOPOLA&layout=compact&theme=transparent&hide_border=true"/>
-</p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KIKOPOLA&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIKOPOLA&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
 - Laravel Ecosystem
-- REST API
-- PostgreSQL
+- REST API Development
 - Flutter
-- Clean Architecture
+- PostgreSQL
+- Software Architecture
+- Clean Code
 
 ---
 
-## Contact
+## 🎯 2026 Goals
+
+- [x] Build multiple Laravel projects
+- [x] Learn Flutter
+- [x] Learn PostgreSQL
+- [ ] Build a complete browser game
+- [ ] Learn Docker
+- [ ] Deploy production applications
+- [ ] Contribute to Open Source
+
+---
+
+## 📬 Connect
+
+<p>
+
+<a href="https://github.com/KIKOPOLA">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
 <a href="https://instagram.com/zercositshere">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="https://github.com/KIKOPOLA">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+</p>
+
+---
+
+<div align="center">
+
+*"Always learning. Always building."*
+
+</div>
