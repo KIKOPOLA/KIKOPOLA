@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Bintang 👋
+# Halo, saya Bintang 👋
 
-### Software Engineering Student • Backend Developer
+### Siswa Rekayasa Perangkat Lunak • Backend Developer
 
-I'm a Software Engineering student from Indonesia who enjoys building web applications, learning backend technologies, and turning ideas into real projects.
+Saya adalah siswa Rekayasa Perangkat Lunak dari Indonesia yang senang membangun aplikasi web, mempelajari teknologi backend, dan mengembangkan berbagai proyek untuk meningkatkan kemampuan.
 
 <p>
 <a href="https://github.com/KIKOPOLA">
@@ -14,82 +14,93 @@ I'm a Software Engineering student from Indonesia who enjoys building web applic
 <a href="https://instagram.com/zercositshere">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 Tentang Saya
 
-- 🎓 Software Engineering Student from Indonesia
-- 💻 Interested in Backend Development
-- 🌱 Currently learning Laravel, Flutter, PostgreSQL, and REST API
-- 🚀 Building personal projects to improve my skills
-- 🎮 Developing **Alderia**, a browser-based game project
+- 🎓 Siswa SMK jurusan Rekayasa Perangkat Lunak
+- 💻 Tertarik pada pengembangan Backend
+- 🌱 Sedang mempelajari Laravel, Flutter, PostgreSQL, REST API, dan Clean Architecture
+- 🚀 Senang membuat project untuk mengasah kemampuan
+- 🎮 Sedang mengembangkan **Alderia**, game berbasis browser
 
 ---
 
-## 🛠 Tech Stack
+# 🛠️ Teknologi yang Digunakan
 
 <div align="center">
 
-### Languages
+### Bahasa Pemrograman
 
-<img src="https://skillicons.dev/icons?i=php,js,java,python,dart,html,css" />
+<img src="https://skillicons.dev/icons?i=php,js,java,python,dart,html,css"/>
 
 <br><br>
 
-### Frameworks & Databases
+### Framework & Database
 
-<img src="https://skillicons.dev/icons?i=laravel,flutter,mysql,postgres,supabase" />
+<img src="https://skillicons.dev/icons?i=laravel,flutter,mysql,postgres,supabase"/>
 
 <br><br>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Proyek Unggulan
 
-### 🎮 Alderia
+## 🎮 Alderia
 
-A browser-based game project built to explore gameplay systems and backend development using Laravel.
+Game berbasis browser yang dibuat sebagai proyek eksperimen untuk mempelajari sistem permainan dan pengembangan backend menggunakan Laravel.
 
-**Tech Stack:** Laravel • PostgreSQL
+**Teknologi**
 
----
-
-### 🛒 Juabaru
-
-A marketplace web application developed with Laravel and PostgreSQL.
-
-**Tech Stack:** Laravel • PostgreSQL
+- Laravel
+- PostgreSQL
 
 ---
 
-### 📚 Lentra
+## 🛒 Juabaru
 
-A web-based asset lending management system.
+Aplikasi marketplace berbasis web yang dikembangkan menggunakan Laravel.
 
-**Tech Stack:** PHP Native • MySQL
+**Teknologi**
 
----
-
-### 📝 NotesApp
-
-A cross-platform note-taking application.
-
-**Tech Stack:** Flutter • Supabase
+- Laravel
+- PostgreSQL
 
 ---
 
-## 📊 GitHub Statistics
+## 📚 Lentra
+
+Aplikasi manajemen peminjaman aset berbasis web.
+
+**Teknologi**
+
+- PHP Native
+- MySQL
+
+---
+
+## 📝 NotesApp
+
+Aplikasi pencatat lintas platform yang dikembangkan menggunakan Flutter dan Supabase.
+
+**Teknologi**
+
+- Flutter
+- Supabase
+
+---
+
+# 📊 Statistik GitHub
 
 <div align="center">
 
@@ -101,28 +112,29 @@ A cross-platform note-taking application.
 
 ---
 
-## 📚 Currently Learning
+# 📚 Sedang Dipelajari
 
 - Laravel Ecosystem
-- REST API Development
+- REST API
 - Flutter
 - PostgreSQL
-- Software Architecture
+- Clean Architecture
 - Docker
+- Git Workflow
 
 ---
 
-## 🎯 Goals
+# 🎯 Target
 
-- ✅ Build useful backend applications
-- ✅ Improve Laravel and PostgreSQL skills
-- 🚧 Complete Alderia
-- 🚧 Learn Docker & CI/CD
-- 🚧 Contribute to Open Source projects
+- ✅ Mengembangkan kemampuan Backend Development
+- ✅ Memahami arsitektur aplikasi yang baik
+- 🚧 Menyelesaikan proyek Alderia
+- 🚧 Mempelajari Docker dan CI/CD
+- 🚧 Berkontribusi pada proyek Open Source
 
 ---
 
-## 📫 Connect With Me
+# 🌐 Hubungi Saya
 
 <p>
 
@@ -140,6 +152,8 @@ A cross-platform note-taking application.
 
 <div align="center">
 
-*"Keep learning. Keep building."* 🚀
+### Terima kasih sudah mengunjungi profil saya!
+
+*"Terus belajar, terus berkembang, dan terus membangun sesuatu yang bermanfaat."* 🚀
 
 </div>
