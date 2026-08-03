@@ -48,7 +48,7 @@ Saya adalah siswa Rekayasa Perangkat Lunak dari Indonesia yang senang membangun 
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 
 </div>
 
